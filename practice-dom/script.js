@@ -1,5 +1,3 @@
-'use strict';
-
 let target= Math.trunc(Math.random()*20)+1;
 console.log(target);
 let score=20;
