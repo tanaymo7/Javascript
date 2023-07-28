@@ -1,6 +1,9 @@
-# JavaScript Practice Repository
-
-Welcome to my JavaScript Practice Repository! This repository serves as a platform for me, Tanay, to learn and improve my skills in JavaScript.
+<!-- Interactive JavaScript Header -->
+<div align="center">
+  <h1>JavaScript Practice Repository</h1>
+  <p>Welcome to my JavaScript Practice Repository! This repository serves as a platform for me, Tanay, to learn and improve my skills in JavaScript.</p>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/javascript-coding-7865742-6308080.png" alt="JavaScript Logo" width="200">
+</div>
 
 ## Purpose
 
