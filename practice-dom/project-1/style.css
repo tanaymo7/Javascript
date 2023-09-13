@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    background-color: #272727;
+    color: antiquewhite;
+  }
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto;
+    width: 80%;
+    text-align: center;
+  }
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: #36454f;
+  }
+  
+  #blue {
+    background: #0e5270;
+  }
+  #brown {
+    background: #483c32;
+  }
+  #teal {
+    background:  #008080;
+  }
+  
