@@ -1,7 +1,7 @@
 <!-- Interactive JavaScript Header -->
 <div align="center">
   <h1>JavaScript Practice Repository</h1>
-  <p>Welcome to my JavaScript Practice Repository! This repository serves as a platform for me, Tanay, to learn and improve my skills in JavaScript.</p>
+  <p>Welcome to my JavaScript Practice Repository! This repository serves as a platform for me, to learn and improve my skills in JavaScript.</p>
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/javascript-coding-7865742-6308080.png" alt="JavaScript Logo" width="200">
 </div>
 
@@ -16,3 +16,9 @@ The primary purpose of this repository is to:
 - Document my learning progress and experiences.
 
 Thank you for visiting my JavaScript Practice Repository. Happy coding!
+
+## Tiny Projects
+
+### <a href="https://github.com/tanaymo7/Javascript/tree/main/to-do">✅ @1</a> To-Do list
+
+<img src="./assets/todo.gif" alt="JavaScript Logo" width="380">
